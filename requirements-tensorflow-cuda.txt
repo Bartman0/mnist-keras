@@ -1,0 +1,5 @@
+# Tensorflow with cuda support.
+tensorflow[and-cuda]~=2.18.1
+tf2onnx
+
+-r requirements-common.txt
