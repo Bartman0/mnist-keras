@@ -9,7 +9,7 @@ The main program is mnist_keras.py, to be run as: python ./mnist_keras.py
 
 1. git clone https://github.com/Bartman0/mnist-keras
 2. cd mnist-keras
-3. pip install -r requirements-frozen.txt
+3. pip install -r requirements-freeze.txt
 
 and then run it as:
 
@@ -19,3 +19,5 @@ python ./mnist_keras.py
 
 A log will be shown of the first 5 characters in the test set.
 At the end of the training, the batch of epochs, the outcome is shown to verify the results on those characters.
+
+A log is included in the directory if you do not want or are unable to run it: mnist_keras.log
